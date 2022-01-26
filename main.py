@@ -10,6 +10,6 @@ first_user = users[0]
 print(f"{first_user['first_name']} {first_user['last_name']}")
 
 # Print last user's full name
-last_user = users[2]
+last_user = users[-1]
 print(f"{last_user['first_name']} {last_user['last_name']}")
 
