@@ -1,2 +1,3 @@
 # git-branching-demo
-Learning to use git branch
+
+Learning to use git branches specifically dev branches
